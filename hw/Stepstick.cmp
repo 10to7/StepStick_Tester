@@ -1,0 +1,276 @@
+Cmp-Mod V01 Created by CvPcb (2014-03-19 BZR 4756)-product date = Sun 08 Jun 2014 22:49:51 BST
+
+BeginCmp
+TimeStamp = /53921EA1;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = 10to7_sm_standard:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53921C81;
+Reference = C2;
+ValeurCmp = 1nF;
+IdModule  = 10to7_sm_standard:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /53921EB5;
+Reference = C3;
+ValeurCmp = 100uF;
+IdModule  = Capacitors_SMD:c_elec_6.3x5.3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53921A87;
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = 10to7_sm_standard:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53923164/538B0E14;
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = 10to7_sm_standard:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53923164/538B0EA1;
+Reference = C6;
+ValeurCmp = 18pF;
+IdModule  = 10to7_sm_standard:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /53923164/538B0EA7;
+Reference = C7;
+ValeurCmp = 18pF;
+IdModule  = 10to7_sm_standard:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /53922A40;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = 10to7_sm_standard:SM0603_Polarity;
+EndCmp
+
+BeginCmp
+TimeStamp = /53922B9B;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = 10to7_sm_standard:SM0603_Polarity;
+EndCmp
+
+BeginCmp
+TimeStamp = /53922BB2;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = 10to7_sm_standard:SM0603_Polarity;
+EndCmp
+
+BeginCmp
+TimeStamp = /5392571D;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = 10to7_sm_standard:SM0603_Polarity;
+EndCmp
+
+BeginCmp
+TimeStamp = /53923164/538B25BE;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = 10to7_sm_standard:SM0603_Polarity;
+EndCmp
+
+BeginCmp
+TimeStamp = /53923164/538B2673;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = 10to7_sm_standard:SM0603_Polarity;
+EndCmp
+
+BeginCmp
+TimeStamp = /53923164/538B2687;
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = 10to7_sm_standard:SM0603_Polarity;
+EndCmp
+
+BeginCmp
+TimeStamp = /5394D9C7;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = 10to7_connectors:2_Pin_Screw_5mm_Pitch;
+EndCmp
+
+BeginCmp
+TimeStamp = /53922084;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = 10to7_connectors:2_Pin_Screw_5mm_Pitch;
+EndCmp
+
+BeginCmp
+TimeStamp = /539221F4;
+Reference = P3;
+ValeurCmp = CONN_4;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /5392528D;
+Reference = P4;
+ValeurCmp = CONN_4;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /53923164/538B1557;
+Reference = P5;
+ValeurCmp = CONN_2;
+IdModule  = 10to7_connectors:2_Pin_Screw_5mm_Pitch;
+EndCmp
+
+BeginCmp
+TimeStamp = /5394D9DB;
+Reference = P6;
+ValeurCmp = CONN_2;
+IdModule  = 10to7_connectors:2_Pin_Screw_5mm_Pitch;
+EndCmp
+
+BeginCmp
+TimeStamp = /53920A79;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = 10to7_sm_standard:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53921A9B;
+Reference = R2;
+ValeurCmp = 15K;
+IdModule  = 10to7_sm_standard:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53920A97;
+Reference = R3;
+ValeurCmp = 100K;
+IdModule  = 10to7_sm_standard:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53922A20;
+Reference = R4;
+ValeurCmp = 560;
+IdModule  = 10to7_sm_standard:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /53922B95;
+Reference = R5;
+ValeurCmp = 560;
+IdModule  = 10to7_sm_standard:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /53922BAC;
+Reference = R6;
+ValeurCmp = 560;
+IdModule  = 10to7_sm_standard:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /53925717;
+Reference = R7;
+ValeurCmp = 560;
+IdModule  = 10to7_sm_standard:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /53923164/538B0DFD;
+Reference = R8;
+ValeurCmp = 10K;
+IdModule  = 10to7_sm_standard:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53923164/538B25D2;
+Reference = R9;
+ValeurCmp = 560;
+IdModule  = 10to7_sm_standard:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /53923164/538B2679;
+Reference = R10;
+ValeurCmp = 560;
+IdModule  = 10to7_sm_standard:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /53923164/538B268D;
+Reference = R11;
+ValeurCmp = 560;
+IdModule  = 10to7_sm_standard:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /53923164/538B0E92;
+Reference = R12;
+ValeurCmp = 10K;
+IdModule  = 10to7_sm_standard:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53921963;
+Reference = U1;
+ValeurCmp = ACS711;
+IdModule  = 10to7_sm_standard:SOIC8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5392086B;
+Reference = U2;
+ValeurCmp = StepStick;
+IdModule  = 10to7_modules:StepStick;
+EndCmp
+
+BeginCmp
+TimeStamp = /53920A0A;
+Reference = U3;
+ValeurCmp = Jumper_3;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /5392238F;
+Reference = U4;
+ValeurCmp = Pro_Micro;
+IdModule  = 10to7_arduino:Pro_Micro_24_PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = /53923164/538B0DEC;
+Reference = U5;
+ValeurCmp = SN65HVD232;
+IdModule  = 10to7_sm_standard:SOIC8;
+EndCmp
+
+BeginCmp
+TimeStamp = /53923164/538B0E79;
+Reference = U6;
+ValeurCmp = MCP515;
+IdModule  = 10to7_sm_standard:TSSOP-20;
+EndCmp
+
+BeginCmp
+TimeStamp = /53923164/538B0E9B;
+Reference = X1;
+ValeurCmp = 16Mhz;
+IdModule  = Crystals:Crystal_HC49-U_Vertical;
+EndCmp
+
+EndListe
